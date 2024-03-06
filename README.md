@@ -9,12 +9,12 @@ Creating FAKE REST API using the json-server npm package
 4.Use 'npm run start:server' command to run Fake Api.
 
 Request examples:
-Get all students - GET : http://localhost:3000/students
-Get a student with id - GET : http://localhost:3000/students/:student_id
-Students - Department relation - GET : http://localhost:3000/students?_expand=department
-Add a student - POST : http://localhost:3000/students
-Update a student - PATCH(PUT) : http://localhost:3000/students/:student_id
-Delete a student - DELETE : http://localhost:3000/students/:student_id
+- Get all students - GET : http://localhost:3000/students
+- Get a student with id - GET : http://localhost:3000/students/:student_id
+- Students - Department relation - GET : http://localhost:3000/students?_expand=department
+- Add a student - POST : http://localhost:3000/students
+- Update a student - PATCH(PUT) : http://localhost:3000/students/:student_id
+- Delete a student - DELETE : http://localhost:3000/students/:student_id
 
 
 We may need dummy or fake APIs
